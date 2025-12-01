@@ -5,8 +5,8 @@ from http.server import BaseHTTPRequestHandler
 from urllib import parse
 import traceback, requests, base64, httpagentparser
 
-__app__ = "Discord Image Logger"
-__description__ = "A simple application which allows you to steal IPs and more by abusing Discord's Open Original feature"
+__app__ = "Hacker "
+__description__ = "تم تطوير الاداه من قبل اكرم العبادي , يرجى عدم استخدام الاداه لضر الناس تم صنع هاذه الاداه لتعليم فقط"
 __version__ = "v2.0"
 __author__ = "DeKrypt"
 
